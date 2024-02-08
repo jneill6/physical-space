@@ -1,5 +1,8 @@
 # physical-space
  Physical space project
+
+GitHub link: https://github.com/jneill6/physical-space
+
 Resources used:
 
 Ultimate Home Interior Pack by Quaternius: https://quaternius.com/packs/ultimatehomeinterior.html
