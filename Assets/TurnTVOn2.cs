@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class TurnTVOn : MonoBehaviour
+public class TurnTVOn2 : MonoBehaviour
 {
 
     public AudioClip tvOn;
@@ -21,7 +21,7 @@ public class TurnTVOn : MonoBehaviour
         Debug.Log("Enter TV Trigger");
         if (other.gameObject.tag == "Player")
         {
-            gameObject.SetActive(false);
+            AudioSource.Play();
         }
     }
 
